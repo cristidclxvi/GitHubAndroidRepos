@@ -1,0 +1,2 @@
+![alt text](https://raw.githubusercontent.com/cristidclxvi/GitHubAndroidRepos/master/Screenshots/ss1.jpg)
+![alt text](https://raw.githubusercontent.com/cristidclxvi/GitHubAndroidRepos/master/Screenshots/ss2.jpg)
